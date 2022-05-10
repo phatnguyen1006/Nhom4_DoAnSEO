@@ -1,7 +1,7 @@
 # Môn học: Tối ưu hoá công cụ tìm kiếm
 ## Lớp: IE204.M22
 ## Nhóm 4
-### Thành viên:
+## Thành viên:
 - 19521998 - Nguyễn Trọng Phát
 - 19521789 - Nguyễn Hữu Long
 - 19521707 - Lê Khôi
@@ -13,6 +13,6 @@
 ## Website:
 ### LuviStay: [luvistay.com](https://luvistay.com)
 
-### Packages:
-### Plugins:
-### Report:
+## Packages:
+## Plugins:
+## Report:
