@@ -1,0 +1,4 @@
+ONLINE Documentation Links :
+
+Motela Theme -> http://documentations.nicdark.com/hotel-inn/
+Booking Plugin -> http://documentations.nicdark.com/nd-booking/
